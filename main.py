@@ -13,4 +13,5 @@ if len(sys.argv) == 2:
     f = open(sys.argv[1])
 
 parse_file( f, edges, transform, screen, color )
+
 f.close()
