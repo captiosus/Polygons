@@ -1,3 +1,18 @@
-
+torus
+0 0 30 200
+torus
+0 50 30 200
+torus
+0 -150 30 200
+torus
+0 -200 30 200
+ident
+xrotate
+50
+translate
+250 350 0
+apply
+sphere
+250 350 100
 display
 quit
